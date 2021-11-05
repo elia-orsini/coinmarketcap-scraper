@@ -3,5 +3,5 @@ A scraper for CoinMarketCap. It returns the most important data about any crypto
 
 ## usage
 With the requirements installed, run on your terminal: <br /><br />
-`python3 script.py [NAME CRYPTOCURRENCY]`
+`python3 scraper.py [NAME CRYPTOCURRENCY]`
 
