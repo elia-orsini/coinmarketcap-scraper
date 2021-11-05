@@ -1,6 +1,7 @@
 # coinmarketcap-scraper
-A scraper for CoinMarketCap. It returns most important data about any cryptocurrency.
+A scraper for CoinMarketCap. It returns the most important data about any cryptocurrency listed.
 
-## requirements
-To use this tool it is necessary having installed Python 3.0+ and the following libraries: <br />
+## usage
+With the requirements installed, run on your terminal: <br /><br />
+`python3 script.py [NAME CRYPTOCURRENCY]`
 
