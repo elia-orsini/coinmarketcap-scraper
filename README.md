@@ -4,6 +4,9 @@ A scraper for CoinMarketCap. It returns the most important data about any crypto
 The scraper is still in development. Future plans include the creation of a RESTful API to query the price of crypto assets.
 
 ## usage
+`cd` into the cloned directory and install the requirements in this way: <br /><br />
+`pip3 install -r requirements.txt`
+<br /><br />
 With the requirements installed, run on your terminal: <br /><br />
 `python3 scraper.py [NAME CRYPTOCURRENCY]`
 #
